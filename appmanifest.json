@@ -1,7 +1,7 @@
 {
 	"name": "Frenzy Claw",
 	"short_name": "Frenzy Claw",
-	"description": "",
+	"description": "a simple casual game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
